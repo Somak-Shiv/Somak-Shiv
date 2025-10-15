@@ -51,9 +51,13 @@
   <img alt="TensorFlow"  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="PyTorch"     src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="scikit-learn"src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img alt="NLTK" src="https://img.shields.io/badge/NLTK-85C88A?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="FAISS"       src="https://img.shields.io/badge/FAISS-2E8B57?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF6F61?style=for-the-badge&logo=qdrant&logoColor=white"/>
+  <img alt="Weaviate" src="https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge&logo=weaviate&logoColor=white"/>
   <img alt="Hugging Face"src="https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img alt="LangChain"   src="https://img.shields.io/badge/LangChain-1A5E9A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img alt="Llama.cpp" src="https://img.shields.io/badge/Llama.cpp-800080?style=for-the-badge&logo=llama&logoColor=white"/>
   <img alt="Ollama"      src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <br/>
 
