@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/Somak-Shiv -->
 <h1 align="center">Somak Shivlani</h1>
 <p align="center">
-  ML and Robotics Engineer & CS @ University of Miami · Building practical LLM systems, vision models, and data tooling, and ROS/2 Packages
+  ML and Robotics Engineer & M.S. and B.S. student in CS @ University of Miami '26 · Building practical LLM systems, vision models, and data tooling, and ROS/2 Packages
 </p>
 
 <p align="center">
